@@ -100,3 +100,9 @@ Delete a specific conversation.
 
 ## 📄 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+## Youtube Demo : https://youtu.be/x5hGAFggHQA
+## LinkedIn Profile : https://www.linkedin.com/in/aayush621
+## Resume Link : https://drive.google.com/file/d/1wLfqwC0t8EBdgTUUqJytvDbOqZNhwQtM/view?usp=drive_link
+## Email Address : agarwalaayush621@gmail.com
+## Phone Number : +91 7023622079
